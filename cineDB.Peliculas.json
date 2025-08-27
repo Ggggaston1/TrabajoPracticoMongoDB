@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "68af279365cdf4f91ae1f0aa"
+  },
+  "titulo": "Harry Potter y la piedra filosofal",
+  "año": 2001,
+  "director": "Chris Columbus"
+},
+{
+  "_id": {
+    "$oid": "68af279365cdf4f91ae1f0ab"
+  },
+  "titulo": "Harry Potter y la cámara secreta",
+  "año": 2002,
+  "director": "Chris Columbus"
+},
+{
+  "_id": {
+    "$oid": "68af279365cdf4f91ae1f0ac"
+  },
+  "titulo": "Harry Potter y el prisionero de Azkaban",
+  "año": 2004,
+  "director": "Alfonso Cuarón"
+},
+{
+  "_id": {
+    "$oid": "68af279365cdf4f91ae1f0ad"
+  },
+  "titulo": "Harry Potter y el cáliz de fuego",
+  "año": 2005,
+  "director": "Mike Newell"
+},
+{
+  "_id": {
+    "$oid": "68af279365cdf4f91ae1f0ae"
+  },
+  "titulo": "Harry Potter y la Orden del Fénix",
+  "año": 2007,
+  "director": "David Yates"
+},
+{
+  "_id": {
+    "$oid": "68af279365cdf4f91ae1f0af"
+  },
+  "titulo": "Harry Potter y el misterio del príncipe",
+  "año": 2009,
+  "director": "David Yates"
+},
+{
+  "_id": {
+    "$oid": "68af279365cdf4f91ae1f0b0"
+  },
+  "titulo": "Harry Potter y las reliquias de la muerte – Parte 1",
+  "año": 2010,
+  "director": "David Yates"
+},
+{
+  "_id": {
+    "$oid": "68af279365cdf4f91ae1f0b1"
+  },
+  "titulo": "Harry Potter y las reliquias de la muerte – Parte 2",
+  "año": 2011,
+  "director": "David Yates"
+}]
